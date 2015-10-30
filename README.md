@@ -17,4 +17,4 @@ Afin d'encourager l'utilisation de ces données, la société américaine a init
 
 Nous vous proposons de répondre à ce challenge en concevant une application permettant d'explorer des données de votre choix. L'objectif de votre application est offrir un regard nouveau, pertinent, et étonnant sur ces données en jouant sur un certain nombre de principes d'exploration : filtres, tris, croisements, jeux d'échelle, variables, etc.
 
-Après une rapide phase de conception (sketching - wireframing), vos applications seront prototypées en HTML/CSS + JS, et publiées dans ce repo GitHub. Vous utiliserez ProcessingJS pour la partie visualisation (ou une autre librairie plus adapté).
+Après une rapide phase de conception (sketching - wireframing), vos applications seront prototypées en HTML/CSS + JS, et publiées dans ce repo GitHub. Vous utiliserez ProcessingJS pour la partie visualisation (ou une autre librairie plus adaptée).
