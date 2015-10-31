@@ -22,8 +22,11 @@
 * [Axure](http://www.axure.com/fr)
 
 ### Outils de visualisation
-* [Sélection](http://selection.datavisualization.ch/)
+* [Datavisualisation.ch Selected Tools](http://selection.datavisualization.ch/)
 
 ### Visualisation JS
 * [Dimple](http://dimplejs.org)
 * [d3js](http://d3js.org)
+
+### Librairies Processing
+* [Unfolding](http://unfoldingmaps.org/) - Cartographie et géovisualisation. 
