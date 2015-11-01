@@ -3,4 +3,6 @@
 * [We Feel Fine](wefeelfine.org) - Explorer les émotions d'internet (2006). Par [Jonathan Harris](http://therethere.is/works) et Sep Kamvar.
 * [Forecast.io](http://forecast.io/#/f/45.6152,5.1495) - Application météo assez remarquable.
 * [Photogrammar](http://photogrammar.yale.edu/map/) - Explorer 170 000 photographies des années 1935-1945.
+* [Migration Map](http://migrationsmap.net)
+* [Europe's energy](http://energy.publicdata.eu/ee/vis.html)
 
