@@ -27,8 +27,9 @@
 * [Datavisualisation.ch Selected Tools](http://selection.datavisualization.ch/)
 
 ### Visualisation JS
-* [Dimple](http://dimplejs.org)
+* [p5js](http://p5js.org/)
 * [d3js](http://d3js.org)
+* [Dimple](http://dimplejs.org)
 
 ### Librairies Processing
 * [Unfolding](http://unfoldingmaps.org/) - Cartographie et géovisualisation.
