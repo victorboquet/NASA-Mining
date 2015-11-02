@@ -12,7 +12,7 @@
 
 ### UI Design
 
-- [ ] Connaitre le modèle de Jess Garett et situer les différents niveaux de la conception d'interface
+- [ ] Connaitre le modèle de Jesse Garrett et situer les différents niveaux de la conception d'interface
 - [ ] Connaître les principales étapes de conception d’une interface
 - [ ] Connaître et utiliser des outils de conception et de prototypage d’interface
 - [ ] Connaître et utiliser les principales règles d’ergonomie (Boucher)
