@@ -30,6 +30,7 @@
 * [p5js](http://p5js.org/)
 * [d3js](http://d3js.org)
 * [Dimple](http://dimplejs.org)
+* [leaflet](http://leafletjs.com/)
 
 ### Librairies Processing
 * [Unfolding](http://unfoldingmaps.org/) - Cartographie et géovisualisation.
