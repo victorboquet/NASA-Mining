@@ -5,6 +5,7 @@
 ### Dataviz
 
 - [ ] Connaître les principales formes de visualisation et leurs fonctions
+- [ ] Comprendre la notion de grammaire visuelle
 - [ ] Connaître les enjeux et principes de la visualisation interactive
 - [ ] Repérer et récupérer des données ou sources de données (API)
 - [ ] Construire une visualisation interactive en fonction d'objectifs
