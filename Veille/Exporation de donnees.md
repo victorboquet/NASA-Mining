@@ -5,4 +5,5 @@
 * [Photogrammar](http://photogrammar.yale.edu/map/) - Explorer 170 000 photographies des années 1935-1945.
 * [Migration Map](http://migrationsmap.net)
 * [Europe's energy](http://energy.publicdata.eu/ee/vis.html)
+* [Nicholas Felton](http://feltron.com/)
 
