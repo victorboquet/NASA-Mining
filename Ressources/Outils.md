@@ -1,8 +1,10 @@
 ## Outils
 
-### Éditeurs de texte
-* [sublime text](http://www.sublimetext.com/) + [control package manager](https://packagecontrol.io/installation)
-* [Atom](http://atom.io)
+### Environnement
+Afin d'avoir tous le même environnement de développement, quelques outils sont nécessaires:
+* un navigateur web: [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+* un éditeur de texte: [Sublime Text 2.0.2](http://www.sublimetext.com/) avec son systeme de gestion de plugins: [Control Package Manager](https://packagecontrol.io/installation#st2)
+* un serveur local: [Python 2.7.10](https://www.python.org/downloads/)
 
 ### PANORAMA 2015
 * [Enquête Subtraction](http://tools.subtraction.com)
@@ -20,7 +22,6 @@
 
 ### Prototypage
 * Html/CSS + Outils de développement Chrome/Firefox
-* [LiveReload](http://livereload.com/)
 * [Une liste](http://www.cooper.com/prototyping-tools)
 * [Une autre liste](http://prototypingtools.co/)
 * [InVision](http://www.invisionapp.com)
