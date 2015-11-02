@@ -1,6 +1,7 @@
-## Outils
+# Outils
 
-### Environnement
+## Environnement
+
 Afin d'avoir tous le même environnement de développement, quelques outils sont nécessaires:
 * un navigateur web: [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 * un éditeur de texte: [Sublime Text 2.0.2](http://www.sublimetext.com/) avec son systeme de gestion de plugins: [Control Package Manager](https://packagecontrol.io/installation#st2)
@@ -8,7 +9,9 @@ Afin d'avoir tous le même environnement de développement, quelques outils sont
 * un compte [github](http://github.com)
 * un gestionnaire de version: [Git](http://www.git-scm.com/), et son [fonctionnement avec github](https://help.github.com/articles/set-up-git/)
 
-### PANORAMA 2015
+## Design
+
+### Panorama 2015
 * [Enquête Subtraction](http://tools.subtraction.com)
 
 ### Sketching / wireframing
@@ -30,6 +33,15 @@ Afin d'avoir tous le même environnement de développement, quelques outils sont
 * [Marvel](https://marvelapp.com)
 * [Axure](http://www.axure.com/fr)
 
+## Intégration et développement front-end
+
+### Frameworks CSS
+* [Bootstrap](http://getbootstrap.com/)
+* [uikit](http://getuikit.com/)
+* [Materialize](http://materializecss.com/)
+
+## Visualisation
+
 ### Outils de visualisation
 * [Datavisualisation.ch Selected Tools](http://selection.datavisualization.ch/)
 
@@ -39,8 +51,8 @@ Afin d'avoir tous le même environnement de développement, quelques outils sont
 * [Dimple](http://dimplejs.org)
 * [leaflet](http://leafletjs.com/)
 
-### Librairies Processing
-* [Unfolding](http://unfoldingmaps.org/) - Cartographie et géovisualisation.
+### Librairies
+* [Unfolding](http://unfoldingmaps.org/) - Cartographie et géovisualisation pour Processing.
 
 ### Divers
 * [KimonoLabs - create API from site](https://www.kimonolabs.com/)
