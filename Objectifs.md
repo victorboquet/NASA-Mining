@@ -25,11 +25,11 @@
 - [ ] Distinguer structure HTML, mise en forme CSS et transformation JS
 - [ ] Structurer une interface en HTML5
 - [ ] Mettre en forme l’interface en CSS3 (+ transitions)
-- [ ] Transformer l'interface avec jQuery + toggleClass + style CSS3
+- [ ] Transformer l'interface avec jQuery + addClass/removeClass/toggleClass + style CSS3
 - [ ] Connaître les principaux composants jQuery UI
 - [ ] Connaître et mettre en oeuvre un framework CSS : Materialize
 - [ ] Contrôler une visualisation P5.js avec une console jQuery
 - [ ] Utiliser la console js et les outils de développement du navigateur
-- [ ] Gérer le développement d'une application sur GitHub
+- [ ] Gérer le développement d'une application sur GitHub (contrôle de version)
 
 ### P5.js et langages de visualisation
