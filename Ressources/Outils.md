@@ -15,6 +15,7 @@
 * Illustrator
 
 ### Prototypage
+* [sublime text](http://www.sublimetext.com/) + [control package manager](https://packagecontrol.io/installation)
 * Html/CSS + Outils de développement Chrome/Firefox
 * [Une liste](http://www.cooper.com/prototyping-tools)
 * [Une autre liste](http://prototypingtools.co/)
@@ -31,3 +32,6 @@
 
 ### Librairies Processing
 * [Unfolding](http://unfoldingmaps.org/) - Cartographie et géovisualisation.
+
+### Divers
+* [KimonoLabs - create API from site](https://www.kimonolabs.com/)
