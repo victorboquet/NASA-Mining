@@ -3,35 +3,34 @@
 ## Semaine 1
 **mardi 3/11**  
 – 9h-12h : Lionel / JB  
-Lancement projet / choix des données / intro dataviz /  séance créativité > premiers concepts d’app + mockups papier  
+Lancement projet / Choix des données / Veille existant / Premières intentions (groupe(s))
 – 13h-16h : Lionel  
-Processing
+Installation environnement de développement / Intro P5.js
 
 **jeudi 5/11**  
 – 9h-12h : JB  
 Conception UI / + créa  
 – 13h-16h : JB  
-Intégration web / html + css + materialize  
+Intégration web / HTML + CSS (+ materialize)
 
 **vendredi 6/11**  
 – 9h-12h : Lionel  
-Processing / data  
+P5.js / data  
 – 13h-17h : Lionel  
-Application dans le projet à partir des données choisies / premières visualisations statiques, puis générées  
+Recherches dataviz
 
 ## Semaine 2 
 **lundi 9/11**  
-– 9h-12h : Lionel / JB  
+– 9h-12h : Lionel / Clément
 Suivi projet  
-– 13h-16h : Lionel  
-Processing : recherches dataviz  
-Présentation des projets d’application sous forme de maquettes  
+– 13h-16h : Lionel / Clément
+Suivi projets  
 
 **mardi 10/11**  
-– 10h-12h : Lionel  
-Processing + JS  
-– 13h-16h : Lionel  
-Suivi projet  
+– 10h-12h : Lionel / JB
+P5.js
+– 13h-16h : Lionel / JB  
+Suivi projets  
 
 ********
 *VENISE! :)*
@@ -39,10 +38,10 @@ Suivi projet
 
 ## Semaine 3
 lundi 16/11 - Lionel / JB  
-jeudi 19/11 - JB  
-vendredi 20/11 - Lionel  
+jeudi 19/11 - JB / Clément  
+vendredi 20/11 - Lionel / Clément 
 
 ## Semaine 4
 lundi 23/11 - Lionel / JB  
-mardi 24/11 - Lionel  
+mardi 24/11 - Lionel  / Clément
 jeudi 26/11 - JB
