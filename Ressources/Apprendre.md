@@ -15,6 +15,7 @@
 * [Codecademy](https://www.codecademy.com)
 * [OpenClassrooms](https://openclassrooms.com/courses?categories=code)
 * [DevDocs](http://devdocs.io/)
+* [JS: The Right Way](http://jstherightway.org/)
 
 ### Théories et méthodes
 #### Dataviz
