@@ -1,5 +1,9 @@
 ## Outils
 
+### Éditeurs de texte
+* [sublime text](http://www.sublimetext.com/) + [control package manager](https://packagecontrol.io/installation)
+* [Atom](http://atom.io)
+
 ### PANORAMA 2015
 * [Enquête Subtraction](http://tools.subtraction.com)
 
@@ -15,7 +19,6 @@
 * Illustrator
 
 ### Prototypage
-* [sublime text](http://www.sublimetext.com/) + [control package manager](https://packagecontrol.io/installation)
 * Html/CSS + Outils de développement Chrome/Firefox
 * [Une liste](http://www.cooper.com/prototyping-tools)
 * [Une autre liste](http://prototypingtools.co/)
@@ -37,3 +40,4 @@
 
 ### Divers
 * [KimonoLabs - create API from site](https://www.kimonolabs.com/)
+* [Trifacta Wrangler](https://www.trifacta.com/trifacta-wrangler/)
