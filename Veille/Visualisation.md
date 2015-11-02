@@ -12,6 +12,7 @@
 * [Population.io](http://population.io) - The World Population Project.
 * [Out of Sight, Out of Mind](http://drones.pitchinteractive.com/) - A visualization of all documented drone strikes in Pakistan since 2004.
 * [Spotify Serendipity](https://www.spotify.com/us/arts/serendipity/) - How often do people listen to the same song in sync with each other? Par l'excellent [Kyle McDonald](http://kylemcdonald.net/).
+* [Tous les projets du DensityDesign lab](http://www.densitydesign.org/projects/)
 
 ## Visualisation statique
 * [Nicholas Felton](http://feltron.com/)
