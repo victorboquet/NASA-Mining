@@ -19,6 +19,7 @@
 ### Théories et méthodes
 #### Dataviz
 * [infodesignpatterns](http://www.niceone.org/infodesignpatterns/index.php5#/patterns.php5)
+* [45 Ways to Communicate Two Quantities](http://blog.visual.ly/45-ways-to-communicate-two-quantities/)
 * Gestalt Principles for Data Visualization
   * [section 1](http://emeeks.github.io/gestaltdataviz/section1.html)
   * [section 2](http://emeeks.github.io/gestaltdataviz/section2.html)
