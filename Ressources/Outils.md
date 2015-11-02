@@ -20,6 +20,7 @@
 
 ### Prototypage
 * Html/CSS + Outils de développement Chrome/Firefox
+* [LiveReload](http://livereload.com/)
 * [Une liste](http://www.cooper.com/prototyping-tools)
 * [Une autre liste](http://prototypingtools.co/)
 * [InVision](http://www.invisionapp.com)
