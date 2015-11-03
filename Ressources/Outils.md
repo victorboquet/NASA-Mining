@@ -26,6 +26,7 @@ Afin d'avoir tous le même environnement de développement, quelques outils sont
 * Illustrator
 
 ### Prototypage
+* [JSbin](http://jsbin.com/?html,css,js,output)
 * Html/CSS + Outils de développement Chrome/Firefox
 * [Une liste](http://www.cooper.com/prototyping-tools)
 * [Une autre liste](http://prototypingtools.co/)
