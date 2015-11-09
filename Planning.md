@@ -38,11 +38,11 @@ Suivi projets
 ********
 
 ## Semaine 3
-lundi 16/11 - Lionel 
+lundi 16/11 - Lionel  
 jeudi 19/11 - JB  
 vendredi 20/11 - Lionel
 
 ## Semaine 4
 lundi 23/11 - Lionel / JB  
-mardi 24/11 - Lionel 
+mardi 24/11 - Lionel  
 jeudi 26/11 - JB
