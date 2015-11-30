@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'notcouriersansbold';
+    src: url('../fonts/notcouriersans-bold-webfont.eot');
+    src: url('../fonts/notcouriersans-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/notcouriersans-bold-webfont.woff2') format('woff2'),
+         url('../fonts/notcouriersans-bold-webfont.woff') format('woff'),
+         url('../fonts/notcouriersans-bold-webfont.ttf') format('truetype'),
+         url('../fonts/notcouriersans-bold-webfont.svg#notcouriersansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+html {
+	background: black;
+	margin: auto;
+}
+
+body {
+	margin-top: 50px;
+	margin-left: 50px;
+
+}
+
+h1{
+	color: white;
+	font-size: 40px;
+	font-family: 'notcouriersansbold', sans-serif;
+	text-transform: uppercase;
+}
+
+h2 {
+	margin-top: -30px;
+	color: white;
+	font-family: 'notcouriersansbold', sans-serif;
+	text-transform: uppercase;
+}
+
+h3 {
+	margin-top: 0px;
+	color: white;
+	font-family: 'notcouriersansbold', sans-serif;
+	text-transform: uppercase;
+}
+
+p {
+	color: white;
+	font-family: 'notcouriersansbold', sans-serif;
+}
+
+.ap {
+	width:1024px;
+	height:768px;
+	background:black;
+	padding-top: 50px;
+}
+
+
+.fenetre {
+	width: 350px;
+	height: 190px;
+    border: 2px dotted white;
+    border-radius: 10px;
+	margin-left: 870px;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+
+#rotatingGlobe {
+	position: fixed;
+	top: 50px;
+	left: 0;
+	cursor: pointer;
+	/*width: 100%;*/
+	/*height: 100%;*/
+	/*margin-left: 50px;*/
+}
+
+#bouton {
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 1180px;
+}
+
+
+}
+
+#canvas {
+	z-index: -99;
+}
+
+
+/* BOOTSTRAP //////////// */
+
+
