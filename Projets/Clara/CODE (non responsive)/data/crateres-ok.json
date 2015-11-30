@@ -1,0 +1,2666 @@
+[
+  {
+    "Ref": 1,
+    "Name": "Mead",
+    "Lat": "12,5",
+    "Lon": "57,0",
+    "Diam": "268,7",
+    "Morpho": 6
+  },
+  {
+    "Ref": 2,
+    "Name": "Isabella",
+    "Lat": "-29,9",
+    "Lon": "204,2",
+    "Diam": "176,0",
+    "Morpho": 6
+  },
+  {
+    "Ref": 3,
+    "Name": "Meitner",
+    "Lat": "-55,6",
+    "Lon": "321,6",
+    "Diam": "150,7",
+    "Morpho": 6
+  },
+  {
+    "Ref": 4,
+    "Name": "Klenova",
+    "Lat": "78,2",
+    "Lon": "104,7",
+    "Diam": "141,9",
+    "Morpho": 6
+  },
+  {
+    "Ref": 5,
+    "Name": "Stanton",
+    "Lat": "-23,2",
+    "Lon": "199,3",
+    "Diam": "107,0",
+    "Morpho": 6
+  },
+  {
+    "Ref": 7,
+    "Name": "Cleopatra",
+    "Lat": "65,9",
+    "Lon": "7,0",
+    "Diam": "105,0",
+    "Morpho": 5
+  },
+  {
+    "Ref": 6,
+    "Name": "Baker",
+    "Lat": "62,5",
+    "Lon": "40,4",
+    "Diam": "105,0",
+    "Morpho": 6
+  },
+  {
+    "Ref": 8,
+    "Name": "Rosa Bonheur",
+    "Lat": "9,7",
+    "Lon": "288,8",
+    "Diam": "102,2",
+    "Morpho": 5
+  },
+  {
+    "Ref": 9,
+    "Name": "Joliot-Curie",
+    "Lat": "-1,7",
+    "Lon": "62,4",
+    "Diam": "100,9",
+    "Morpho": 6
+  },
+  {
+    "Ref": 10,
+    "Name": "Cochran",
+    "Lat": "51,9",
+    "Lon": "143,4",
+    "Diam": "98,1",
+    "Morpho": 5
+  },
+  {
+    "Ref": 11,
+    "Name": "Maria Celeste",
+    "Lat": "23,4",
+    "Lon": "140,4",
+    "Diam": "96,6",
+    "Morpho": 5
+  },
+  {
+    "Ref": 12,
+    "Name": "Sayers",
+    "Lat": "-67,5",
+    "Lon": "229,6",
+    "Diam": "93,6",
+    "Morpho": 5
+  },
+  {
+    "Ref": 13,
+    "Name": "Greenaway",
+    "Lat": "22,9",
+    "Lon": "145,1",
+    "Diam": "92,3",
+    "Morpho": 5
+  },
+  {
+    "Ref": 14,
+    "Name": "Potanina",
+    "Lat": "31,7",
+    "Lon": "53,0",
+    "Diam": "89,6",
+    "Morpho": 6
+  },
+  {
+    "Ref": 15,
+    "Name": "Bonnevie",
+    "Lat": "-36,1",
+    "Lon": "127,0",
+    "Diam": "87,6",
+    "Morpho": 4
+  },
+  {
+    "Ref": 16,
+    "Name": "Addams",
+    "Lat": "-56,2",
+    "Lon": "98,8",
+    "Diam": "87,1",
+    "Morpho": 5
+  },
+  {
+    "Ref": 18,
+    "Name": "Sanger",
+    "Lat": "33,8",
+    "Lon": "288,6",
+    "Diam": "83,8",
+    "Morpho": 5
+  },
+  {
+    "Ref": 19,
+    "Name": "Mona Lisa",
+    "Lat": "25,6",
+    "Lon": "25,2",
+    "Diam": "82,5",
+    "Morpho": 6
+  },
+  {
+    "Ref": 20,
+    "Name": "Stowe",
+    "Lat": "-43,2",
+    "Lon": "233,2",
+    "Diam": "75,3",
+    "Morpho": 4
+  },
+  {
+    "Ref": 21,
+    "Name": "Boulanger",
+    "Lat": "-26,6",
+    "Lon": "99,3",
+    "Diam": "73,7",
+    "Morpho": 5
+  },
+  {
+    "Ref": 22,
+    "Name": "Barsova",
+    "Lat": "61,4",
+    "Lon": "223,0",
+    "Diam": "73,0",
+    "Morpho": 5
+  },
+  {
+    "Ref": 23,
+    "Name": "Wheatley",
+    "Lat": "16,6",
+    "Lon": "268,0",
+    "Diam": "72,9",
+    "Morpho": 5
+  },
+  {
+    "Ref": 24,
+    "Name": "Koidula",
+    "Lat": "64,3",
+    "Lon": "139,6",
+    "Diam": "72,5",
+    "Morpho": 4
+  },
+  {
+    "Ref": 25,
+    "Name": "O'Keeffe",
+    "Lat": "24,5",
+    "Lon": "228,8",
+    "Diam": "72,4",
+    "Morpho": 0
+  },
+  {
+    "Ref": 26,
+    "Name": "Markham",
+    "Lat": "-4,1",
+    "Lon": "155,6",
+    "Diam": "71,8",
+    "Morpho": 4
+  },
+  {
+    "Ref": 27,
+    "Name": "Boleyn",
+    "Lat": "24,4",
+    "Lon": "220,1",
+    "Diam": "69,8",
+    "Morpho": 4
+  },
+  {
+    "Ref": 29,
+    "Name": "Henie",
+    "Lat": "-52,0",
+    "Lon": "146,0",
+    "Diam": "68,7",
+    "Morpho": 4
+  },
+  {
+    "Ref": 30,
+    "Name": "Nevelson",
+    "Lat": "-35,2",
+    "Lon": "307,8",
+    "Diam": "68,5",
+    "Morpho": 5
+  },
+  {
+    "Ref": 31,
+    "Name": "Dickinson",
+    "Lat": "74,7",
+    "Lon": "177,0",
+    "Diam": "67,7",
+    "Morpho": 4
+  },
+  {
+    "Ref": 32,
+    "Name": "Stuart",
+    "Lat": "-30,8",
+    "Lon": "20,2",
+    "Diam": "66,6",
+    "Morpho": 4
+  },
+  {
+    "Ref": 33,
+    "Name": "Seymour",
+    "Lat": "18,2",
+    "Lon": "326,5",
+    "Diam": "63,9",
+    "Morpho": 4
+  },
+  {
+    "Ref": 34,
+    "Name": "Dix",
+    "Lat": "-37,0",
+    "Lon": "329,0",
+    "Diam": "63,8",
+    "Morpho": 4
+  },
+  {
+    "Ref": 35,
+    "Name": "Yablochkina",
+    "Lat": "48,2",
+    "Lon": "195,3",
+    "Diam": "63,8",
+    "Morpho": 4
+  },
+  {
+    "Ref": 36,
+    "Name": "Alcott",
+    "Lat": "-59,5",
+    "Lon": "354,4",
+    "Diam": "62,7",
+    "Morpho": 0
+  },
+  {
+    "Ref": 37,
+    "Name": "Aglaonice",
+    "Lat": "-26,5",
+    "Lon": "340,0",
+    "Diam": "62,7",
+    "Morpho": 4
+  },
+  {
+    "Ref": 38,
+    "Name": "Hepworth",
+    "Lat": "5,1",
+    "Lon": "94,6",
+    "Diam": "62,5",
+    "Morpho": 5
+  },
+  {
+    "Ref": 927,
+    "Name": "Batten",
+    "Lat": "15,2",
+    "Lon": "217,4",
+    "Diam": "62,2",
+    "Morpho": 5
+  },
+  {
+    "Ref": 39,
+    "Name": "Ermolova",
+    "Lat": "60,3",
+    "Lon": "154,4",
+    "Diam": "60,3",
+    "Morpho": 4
+  },
+  {
+    "Ref": 40,
+    "Name": "Gautier",
+    "Lat": "26,4",
+    "Lon": "42,8",
+    "Diam": "58,6",
+    "Morpho": 0
+  },
+  {
+    "Ref": 41,
+    "Name": "Vigee-Lebrun",
+    "Lat": "17,3",
+    "Lon": "141,4",
+    "Diam": "57,6",
+    "Morpho": 4
+  },
+  {
+    "Ref": 42,
+    "Name": "Ponselle",
+    "Lat": "-63,0",
+    "Lon": "289,0",
+    "Diam": "57,3",
+    "Morpho": 4
+  },
+  {
+    "Ref": 43,
+    "Name": "Carreno",
+    "Lat": "-3,9",
+    "Lon": "16,1",
+    "Diam": "56,8",
+    "Morpho": 4
+  },
+  {
+    "Ref": 45,
+    "Name": "Lagerlof",
+    "Lat": "81,1",
+    "Lon": "285,3",
+    "Diam": "55,6",
+    "Morpho": 4
+  },
+  {
+    "Ref": 44,
+    "Name": "Barrymore",
+    "Lat": "-52,3",
+    "Lon": "195,7",
+    "Diam": "55,6",
+    "Morpho": 5
+  },
+  {
+    "Ref": 46,
+    "Name": "Grey",
+    "Lat": "-52,4",
+    "Lon": "329,4",
+    "Diam": "55,5",
+    "Morpho": 4
+  },
+  {
+    "Ref": 47,
+    "Name": "Cori",
+    "Lat": "25,4",
+    "Lon": "72,9",
+    "Diam": "54,7",
+    "Morpho": 5
+  },
+  {
+    "Ref": 48,
+    "Name": "de Beauvoir",
+    "Lat": "2,0",
+    "Lon": "96,1",
+    "Diam": "53,3",
+    "Morpho": 5
+  },
+  {
+    "Ref": 49,
+    "Name": "Zhilova",
+    "Lat": "66,3",
+    "Lon": "125,7",
+    "Diam": "53,3",
+    "Morpho": 4
+  },
+  {
+    "Ref": 50,
+    "Name": "Kenny",
+    "Lat": "-44,4",
+    "Lon": "271,1",
+    "Diam": "52,5",
+    "Morpho": 4
+  },
+  {
+    "Ref": 51,
+    "Name": "Hurston",
+    "Lat": "-77,6",
+    "Lon": "94,8",
+    "Diam": "52,3",
+    "Morpho": 4
+  },
+  {
+    "Ref": 52,
+    "Name": "Caldwell",
+    "Lat": "23,6",
+    "Lon": "112,5",
+    "Diam": "52,0",
+    "Morpho": 4
+  },
+  {
+    "Ref": 53,
+    "Name": "Langtry",
+    "Lat": "-17,0",
+    "Lon": "155,0",
+    "Diam": "51,5",
+    "Morpho": 5
+  },
+  {
+    "Ref": 54,
+    "Name": "Fedorets",
+    "Lat": "59,6",
+    "Lon": "65,6",
+    "Diam": "50,3",
+    "Morpho": 4
+  },
+  {
+    "Ref": 55,
+    "Name": "Jhirad",
+    "Lat": "-16,8",
+    "Lon": "105,6",
+    "Diam": "50,2",
+    "Morpho": 5
+  },
+  {
+    "Ref": 57,
+    "Name": "Wharton",
+    "Lat": "55,6",
+    "Lon": "61,9",
+    "Diam": "50,0",
+    "Morpho": 5
+  },
+  {
+    "Ref": 56,
+    "Name": "Barton",
+    "Lat": "27,4",
+    "Lon": "337,5",
+    "Diam": "50,0",
+    "Morpho": 5
+  },
+  {
+    "Ref": 58,
+    "Name": "Warren",
+    "Lat": "-11,7",
+    "Lon": "176,5",
+    "Diam": "49,4",
+    "Morpho": 4
+  },
+  {
+    "Ref": 59,
+    "Name": "Potter",
+    "Lat": "7,2",
+    "Lon": "309,4",
+    "Diam": "48,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 61,
+    "Name": "Cunitz",
+    "Lat": "14,5",
+    "Lon": "350,9",
+    "Diam": "48,5",
+    "Morpho": 5
+  },
+  {
+    "Ref": 62,
+    "Name": "Willard",
+    "Lat": "-24,7",
+    "Lon": "296,0",
+    "Diam": "48,4",
+    "Morpho": 4
+  },
+  {
+    "Ref": 63,
+    "Name": "Millay",
+    "Lat": "24,4",
+    "Lon": "111,3",
+    "Diam": "48,3",
+    "Morpho": 2
+  },
+  {
+    "Ref": 211,
+    "Name": "Deken",
+    "Lat": "47,1",
+    "Lon": "288,5",
+    "Diam": "48,2",
+    "Morpho": 4
+  },
+  {
+    "Ref": 64,
+    "Name": "Morisot",
+    "Lat": "-61,2",
+    "Lon": "211,5",
+    "Diam": "48,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 65,
+    "Name": "Voynich",
+    "Lat": "35,3",
+    "Lon": "56,1",
+    "Diam": "47,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 66,
+    "Name": "Barto",
+    "Lat": "45,3",
+    "Lon": "146,2",
+    "Diam": "47,9",
+    "Morpho": 4
+  },
+  {
+    "Ref": 67,
+    "Name": "Cotton",
+    "Lat": "70,7",
+    "Lon": "300,2",
+    "Diam": "47,8",
+    "Morpho": 4
+  },
+  {
+    "Ref": 68,
+    "Name": "Danilova",
+    "Lat": "-26,4",
+    "Lon": "337,2",
+    "Diam": "47,6",
+    "Morpho": 4
+  },
+  {
+    "Ref": 69,
+    "Name": "Marsh",
+    "Lat": "-63,6",
+    "Lon": "46,6",
+    "Diam": "47,4",
+    "Morpho": 4
+  },
+  {
+    "Ref": 70,
+    "Name": "Volkova",
+    "Lat": "75,1",
+    "Lon": "242,2",
+    "Diam": "47,2",
+    "Morpho": 4
+  },
+  {
+    "Ref": 71,
+    "Name": "Conway",
+    "Lat": "48,4",
+    "Lon": "39,0",
+    "Diam": "47,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 72,
+    "Name": "Hull",
+    "Lat": "59,4",
+    "Lon": "263,5",
+    "Diam": "46,8",
+    "Morpho": 4
+  },
+  {
+    "Ref": 73,
+    "Name": "Wollstonescraft",
+    "Lat": "-39,2",
+    "Lon": "260,8",
+    "Diam": "46,6",
+    "Morpho": 4
+  },
+  {
+    "Ref": 74,
+    "Name": "Patti",
+    "Lat": "35,0",
+    "Lon": "301,6",
+    "Diam": "46,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 75,
+    "Name": "Fouquet",
+    "Lat": "-15,1",
+    "Lon": "203,5",
+    "Diam": "46,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 76,
+    "Name": "Truth",
+    "Lat": "28,7",
+    "Lon": "287,8",
+    "Diam": "46,1",
+    "Morpho": 4
+  },
+  {
+    "Ref": 77,
+    "Name": "Dashkova",
+    "Lat": "78,2",
+    "Lon": "306,5",
+    "Diam": "45,3",
+    "Morpho": 4
+  },
+  {
+    "Ref": 78,
+    "Name": "Ruslanova",
+    "Lat": "84,0",
+    "Lon": "16,5",
+    "Diam": "45,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 79,
+    "Name": "Corpman",
+    "Lat": "0,3",
+    "Lon": "151,8",
+    "Diam": "45,1",
+    "Morpho": 5
+  },
+  {
+    "Ref": 80,
+    "Name": "Leyster",
+    "Lat": "1,0",
+    "Lon": "260,0",
+    "Diam": "45,1",
+    "Morpho": 5
+  },
+  {
+    "Ref": 81,
+    "Name": "Obukhova",
+    "Lat": "70,7",
+    "Lon": "289,8",
+    "Diam": "44,9",
+    "Morpho": 5
+  },
+  {
+    "Ref": 83,
+    "Name": "Rhys",
+    "Lat": "8,6",
+    "Lon": "298,8",
+    "Diam": "44,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 84,
+    "Name": "Austen",
+    "Lat": "-25,0",
+    "Lon": "168,5",
+    "Diam": "43,9",
+    "Morpho": 4
+  },
+  {
+    "Ref": 85,
+    "Name": "Manzolini",
+    "Lat": "25,7",
+    "Lon": "91,3",
+    "Diam": "43,7",
+    "Morpho": 5
+  },
+  {
+    "Ref": 87,
+    "Name": "Lonsdale",
+    "Lat": "55,6",
+    "Lon": "222,3",
+    "Diam": "43,0",
+    "Morpho": 4
+  },
+  {
+    "Ref": 86,
+    "Name": "Guan Daosheng",
+    "Lat": "-61,1",
+    "Lon": "181,8",
+    "Diam": "43,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 89,
+    "Name": "Montessori",
+    "Lat": "59,4",
+    "Lon": "280,0",
+    "Diam": "42,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 88,
+    "Name": "Hayashi",
+    "Lat": "53,7",
+    "Lon": "243,9",
+    "Diam": "42,9",
+    "Morpho": 4
+  },
+  {
+    "Ref": 91,
+    "Name": "Parra",
+    "Lat": "20,5",
+    "Lon": "78,5",
+    "Diam": "42,8",
+    "Morpho": 2
+  },
+  {
+    "Ref": 90,
+    "Name": "Beecher",
+    "Lat": "13,1",
+    "Lon": "253,5",
+    "Diam": "42,8",
+    "Morpho": 4
+  },
+  {
+    "Ref": 92,
+    "Name": "Khatun",
+    "Lat": "40,3",
+    "Lon": "87,2",
+    "Diam": "42,4",
+    "Morpho": 4
+  },
+  {
+    "Ref": 93,
+    "Name": "Akhmatova",
+    "Lat": "61,4",
+    "Lon": "307,9",
+    "Diam": "41,7",
+    "Morpho": 4
+  },
+  {
+    "Ref": 94,
+    "Name": "Agnesi",
+    "Lat": "-39,5",
+    "Lon": "37,7",
+    "Diam": "41,4",
+    "Morpho": 4
+  },
+  {
+    "Ref": 95,
+    "Name": "Whitney",
+    "Lat": "-30,2",
+    "Lon": "151,3",
+    "Diam": "41,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 96,
+    "Name": "Tubman",
+    "Lat": "23,6",
+    "Lon": "204,6",
+    "Diam": "41,1",
+    "Morpho": 4
+  },
+  {
+    "Ref": 97,
+    "Name": "Duncan",
+    "Lat": "68,1",
+    "Lon": "291,7",
+    "Diam": "41,0",
+    "Morpho": 4
+  },
+  {
+    "Ref": 98,
+    "Name": "Tsvetayeva",
+    "Lat": "64,6",
+    "Lon": "147,3",
+    "Diam": "40,9",
+    "Morpho": 4
+  },
+  {
+    "Ref": 99,
+    "Name": "Aksentyeva",
+    "Lat": "-42,0",
+    "Lon": "271,9",
+    "Diam": "40,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 100,
+    "Name": "Xantippe",
+    "Lat": "-10,9",
+    "Lon": "11,7",
+    "Diam": "40,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 942,
+    "Name": "Polenova",
+    "Lat": "-45,5",
+    "Lon": "335,5",
+    "Diam": "40,0",
+    "Morpho": 5
+  },
+  {
+    "Ref": 101,
+    "Name": "Balch",
+    "Lat": "29,9",
+    "Lon": "282,9",
+    "Diam": "39,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 103,
+    "Name": "La Fayette",
+    "Lat": "70,2",
+    "Lon": "107,6",
+    "Diam": "39,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 102,
+    "Name": "Heloise",
+    "Lat": "40,0",
+    "Lon": "52,0",
+    "Diam": "39,3",
+    "Morpho": 0
+  },
+  {
+    "Ref": 104,
+    "Name": "Chiyojo",
+    "Lat": "-47,8",
+    "Lon": "95,7",
+    "Diam": "38,8",
+    "Morpho": 4
+  },
+  {
+    "Ref": 105,
+    "Name": "Piaf",
+    "Lat": "0,8",
+    "Lon": "5,3",
+    "Diam": "38,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 106,
+    "Name": "Flagstad",
+    "Lat": "-54,3",
+    "Lon": "18,9",
+    "Diam": "38,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 108,
+    "Name": "Zenobia",
+    "Lat": "-29,4",
+    "Lon": "28,5",
+    "Diam": "38,5",
+    "Morpho": 4
+  },
+  {
+    "Ref": 107,
+    "Name": "Howe",
+    "Lat": "-45,7",
+    "Lon": "174,8",
+    "Diam": "38,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 110,
+    "Name": "Anicia",
+    "Lat": "-26,3",
+    "Lon": "31,3",
+    "Diam": "38,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 109,
+    "Name": "Agrippina",
+    "Lat": "-33,3",
+    "Lon": "65,7",
+    "Diam": "38,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 111,
+    "Name": "Ban Zhao",
+    "Lat": "17,2",
+    "Lon": "146,9",
+    "Diam": "38,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 112,
+    "Name": "Maltby",
+    "Lat": "-23,3",
+    "Lon": "119,7",
+    "Diam": "38,1",
+    "Morpho": 0
+  },
+  {
+    "Ref": 113,
+    "Name": "Mumtaz-Mahal",
+    "Lat": "30,3",
+    "Lon": "228,4",
+    "Diam": "38,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 114,
+    "Name": "Uvaysi",
+    "Lat": "2,3",
+    "Lon": "198,2",
+    "Diam": "38,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 118,
+    "Name": "Cline",
+    "Lat": "-21,8",
+    "Lon": "317,1",
+    "Diam": "37,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 117,
+    "Name": "Carson",
+    "Lat": "-24,2",
+    "Lon": "344,1",
+    "Diam": "37,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 115,
+    "Name": "Phryne",
+    "Lat": "-46,1",
+    "Lon": "314,7",
+    "Diam": "37,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 116,
+    "Name": "Xiao Hong",
+    "Lat": "-43,6",
+    "Lon": "101,7",
+    "Diam": "37,6",
+    "Morpho": 4
+  },
+  {
+    "Ref": 119,
+    "Name": "Caccini",
+    "Lat": "17,4",
+    "Lon": "170,4",
+    "Diam": "37,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 121,
+    "Name": "Saskia",
+    "Lat": "-28,6",
+    "Lon": "337,1",
+    "Diam": "37,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 123,
+    "Name": "Bonnin",
+    "Lat": "-6,2",
+    "Lon": "117,6",
+    "Diam": "37,1",
+    "Morpho": 2
+  },
+  {
+    "Ref": 125,
+    "Name": "Bashkirtseff",
+    "Lat": "14,7",
+    "Lon": "194,1",
+    "Diam": "36,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 124,
+    "Name": "Mowatt",
+    "Lat": "-14,6",
+    "Lon": "292,3",
+    "Diam": "36,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 126,
+    "Name": "Himiko",
+    "Lat": "19,0",
+    "Lon": "124,3",
+    "Diam": "36,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 128,
+    "Name": "von Paradis",
+    "Lat": "-32,2",
+    "Lon": "314,9",
+    "Diam": "36,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 127,
+    "Name": "Von Siebold",
+    "Lat": "-52,0",
+    "Lon": "36,7",
+    "Diam": "36,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 129,
+    "Name": "Lebedeva",
+    "Lat": "45,2",
+    "Lon": "49,8",
+    "Diam": "36,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 131,
+    "Name": "Whiting",
+    "Lat": "-6,0",
+    "Lon": "128,0",
+    "Diam": "35,9",
+    "Morpho": 4
+  },
+  {
+    "Ref": 130,
+    "Name": "Germain",
+    "Lat": "-38,0",
+    "Lon": "63,7",
+    "Diam": "35,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 133,
+    "Name": "Festa",
+    "Lat": "11,5",
+    "Lon": "27,2",
+    "Diam": "35,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 132,
+    "Name": "Bickerdyke",
+    "Lat": "-82,0",
+    "Lon": "171,4",
+    "Diam": "35,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 134,
+    "Name": "Bascom",
+    "Lat": "-10,4",
+    "Lon": "302,1",
+    "Diam": "35,4",
+    "Morpho": 4
+  },
+  {
+    "Ref": 135,
+    "Name": "Nijinskaya",
+    "Lat": "25,8",
+    "Lon": "122,5",
+    "Diam": "35,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 136,
+    "Name": "Wilder",
+    "Lat": "17,4",
+    "Lon": "122,6",
+    "Diam": "35,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 137,
+    "Name": "Lachappelle",
+    "Lat": "26,7",
+    "Lon": "336,7",
+    "Diam": "35,3",
+    "Morpho": 4
+  },
+  {
+    "Ref": 138,
+    "Name": "Bradstreet",
+    "Lat": "16,5",
+    "Lon": "47,7",
+    "Diam": "35,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 139,
+    "Name": "Kahlo",
+    "Lat": "-59,9",
+    "Lon": "178,9",
+    "Diam": "34,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 140,
+    "Name": "Grimke",
+    "Lat": "17,3",
+    "Lon": "215,3",
+    "Diam": "34,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 141,
+    "Name": "Bourke-White",
+    "Lat": "21,2",
+    "Lon": "147,9",
+    "Diam": "34,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 142,
+    "Name": "Sabin",
+    "Lat": "-38,5",
+    "Lon": "274,7",
+    "Diam": "34,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 143,
+    "Name": "Joshee",
+    "Lat": "5,5",
+    "Lon": "288,8",
+    "Diam": "34,3",
+    "Morpho": 0
+  },
+  {
+    "Ref": 144,
+    "Name": "Hellman",
+    "Lat": "4,8",
+    "Lon": "356,3",
+    "Diam": "34,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 145,
+    "Name": "Amaya",
+    "Lat": "11,3",
+    "Lon": "89,3",
+    "Diam": "34,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 146,
+    "Name": "Wen Shu",
+    "Lat": "-5,0",
+    "Lon": "303,7",
+    "Diam": "33,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 147,
+    "Name": "Olesnicka",
+    "Lat": "18,2",
+    "Lon": "210,8",
+    "Diam": "33,3",
+    "Morpho": 0
+  },
+  {
+    "Ref": 148,
+    "Name": "Munter",
+    "Lat": "-15,3",
+    "Lon": "39,3",
+    "Diam": "33,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 150,
+    "Name": "Gaze",
+    "Lat": "17,9",
+    "Lon": "240,1",
+    "Diam": "32,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 151,
+    "Name": "Callirhoe",
+    "Lat": "21,2",
+    "Lon": "140,7",
+    "Diam": "32,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 152,
+    "Name": "Edinger",
+    "Lat": "-68,8",
+    "Lon": "208,5",
+    "Diam": "32,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 153,
+    "Name": "Bathsheba",
+    "Lat": "-15,1",
+    "Lon": "49,4",
+    "Diam": "32,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 154,
+    "Name": "Mu Guiying",
+    "Lat": "41,2",
+    "Lon": "81,1",
+    "Diam": "32,7",
+    "Morpho": 4
+  },
+  {
+    "Ref": 156,
+    "Name": "Goeppert-Meyer",
+    "Lat": "59,7",
+    "Lon": "26,9",
+    "Diam": "32,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 155,
+    "Name": "Erinna",
+    "Lat": "-78,1",
+    "Lon": "309,2",
+    "Diam": "32,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 157,
+    "Name": "Jex-Blake",
+    "Lat": "65,3",
+    "Lon": "169,3",
+    "Diam": "32,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 158,
+    "Name": "Yonge",
+    "Lat": "-14,0",
+    "Lon": "115,1",
+    "Diam": "32,1",
+    "Morpho": 4
+  },
+  {
+    "Ref": 940,
+    "Name": "Deledda",
+    "Lat": "76,0",
+    "Lon": "127,5",
+    "Diam": "32,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 159,
+    "Name": "Sitwell",
+    "Lat": "16,6",
+    "Lon": "190,4",
+    "Diam": "31,9",
+    "Morpho": 4
+  },
+  {
+    "Ref": 160,
+    "Name": "Erxleben",
+    "Lat": "-50,9",
+    "Lon": "39,4",
+    "Diam": "31,7",
+    "Morpho": 4
+  },
+  {
+    "Ref": 161,
+    "Name": "Romanskaya",
+    "Lat": "23,2",
+    "Lon": "178,5",
+    "Diam": "31,7",
+    "Morpho": 4
+  },
+  {
+    "Ref": 163,
+    "Name": "Gwynn",
+    "Lat": "9,7",
+    "Lon": "37,2",
+    "Diam": "31,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 164,
+    "Name": "Godiva",
+    "Lat": "-56,2",
+    "Lon": "251,6",
+    "Diam": "31,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 165,
+    "Name": "Bassi",
+    "Lat": "-19,0",
+    "Lon": "64,7",
+    "Diam": "31,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 167,
+    "Name": "Callas",
+    "Lat": "2,4",
+    "Lon": "27,0",
+    "Diam": "31,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 166,
+    "Name": "Ichikawa",
+    "Lat": "-61,6",
+    "Lon": "156,3",
+    "Diam": "31,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 169,
+    "Name": "Simonenko",
+    "Lat": "-26,9",
+    "Lon": "97,6",
+    "Diam": "31,1",
+    "Morpho": 4
+  },
+  {
+    "Ref": 168,
+    "Name": "Deloria",
+    "Lat": "-32,0",
+    "Lon": "97,1",
+    "Diam": "31,1",
+    "Morpho": 4
+  },
+  {
+    "Ref": 170,
+    "Name": "Duse",
+    "Lat": "-82,5",
+    "Lon": "357,7",
+    "Diam": "31,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 172,
+    "Name": "Taglioni",
+    "Lat": "41,7",
+    "Lon": "122,6",
+    "Diam": "31,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 173,
+    "Name": "Nadira",
+    "Lat": "44,1",
+    "Lon": "201,5",
+    "Diam": "31,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 171,
+    "Name": "Aurelia",
+    "Lat": "20,3",
+    "Lon": "331,8",
+    "Diam": "31,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 175,
+    "Name": "Hwangcini",
+    "Lat": "6,3",
+    "Lon": "141,7",
+    "Diam": "30,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 174,
+    "Name": "Leonard",
+    "Lat": "-73,8",
+    "Lon": "185,2",
+    "Diam": "30,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 178,
+    "Name": "Fossey",
+    "Lat": "2,0",
+    "Lon": "188,7",
+    "Diam": "30,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 177,
+    "Name": "Carr",
+    "Lat": "-24,0",
+    "Lon": "295,7",
+    "Diam": "30,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 176,
+    "Name": "Vacarescu",
+    "Lat": "-63,0",
+    "Lon": "199,8",
+    "Diam": "30,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 179,
+    "Name": "Pena",
+    "Lat": "-23,6",
+    "Lon": "190,6",
+    "Diam": "30,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 185,
+    "Name": "Winnemucca",
+    "Lat": "-15,3",
+    "Lon": "121,0",
+    "Diam": "30,1",
+    "Morpho": 0
+  },
+  {
+    "Ref": 182,
+    "Name": "Blackburne",
+    "Lat": "11,0",
+    "Lon": "183,9",
+    "Diam": "30,1",
+    "Morpho": 4
+  },
+  {
+    "Ref": 180,
+    "Name": "Goncharova",
+    "Lat": "-63,0",
+    "Lon": "97,7",
+    "Diam": "30,1",
+    "Morpho": 2
+  },
+  {
+    "Ref": 181,
+    "Name": "Peck",
+    "Lat": "-28,9",
+    "Lon": "294,3",
+    "Diam": "30,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 183,
+    "Name": "Tseraskaya",
+    "Lat": "28,6",
+    "Lon": "79,3",
+    "Diam": "30,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 184,
+    "Name": "Golubkina",
+    "Lat": "60,3",
+    "Lon": "286,4",
+    "Diam": "30,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 941,
+    "Name": "Osipenko",
+    "Lat": "71,2",
+    "Lon": "321,0",
+    "Diam": "30,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 186,
+    "Name": "Rudneva",
+    "Lat": "78,4",
+    "Lon": "174,8",
+    "Diam": "29,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 187,
+    "Name": "Medhavi",
+    "Lat": "-19,3",
+    "Lon": "40,6",
+    "Diam": "29,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 188,
+    "Name": "Laurencin",
+    "Lat": "-15,4",
+    "Lon": "46,5",
+    "Diam": "29,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 189,
+    "Name": "Bugoslavskaya",
+    "Lat": "-23,0",
+    "Lon": "300,4",
+    "Diam": "29,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 190,
+    "Name": "O'Conner",
+    "Lat": "-26,0",
+    "Lon": "143,9",
+    "Diam": "29,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 191,
+    "Name": "Zhu Shuzhen",
+    "Lat": "-26,5",
+    "Lon": "356,5",
+    "Diam": "29,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 192,
+    "Name": "Badarzewska",
+    "Lat": "-22,6",
+    "Lon": "137,2",
+    "Diam": "29,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 193,
+    "Name": "Edgeworth",
+    "Lat": "32,2",
+    "Lon": "22,8",
+    "Diam": "29,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 194,
+    "Name": "Berggolts",
+    "Lat": "-63,5",
+    "Lon": "53,0",
+    "Diam": "29,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 195,
+    "Name": "Adivar",
+    "Lat": "8,9",
+    "Lon": "76,2",
+    "Diam": "29,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 196,
+    "Name": "Ferrier",
+    "Lat": "15,7",
+    "Lon": "111,3",
+    "Diam": "29,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 197,
+    "Name": "Sevigne",
+    "Lat": "52,6",
+    "Lon": "326,5",
+    "Diam": "29,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 198,
+    "Name": "von Schuurman",
+    "Lat": "-5,0",
+    "Lon": "191,0",
+    "Diam": "28,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 199,
+    "Name": "Kollwitz",
+    "Lat": "25,2",
+    "Lon": "133,6",
+    "Diam": "28,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 200,
+    "Name": "Boye",
+    "Lat": "-9,6",
+    "Lon": "292,3",
+    "Diam": "28,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 201,
+    "Name": "Nina",
+    "Lat": "-55,5",
+    "Lon": "238,7",
+    "Diam": "28,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 202,
+    "Name": "Moses",
+    "Lat": "34,6",
+    "Lon": "119,9",
+    "Diam": "28,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 203,
+    "Name": "West",
+    "Lat": "26,1",
+    "Lon": "303,0",
+    "Diam": "28,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 204,
+    "Name": "de Beausoliel",
+    "Lat": "-5,0",
+    "Lon": "102,8",
+    "Diam": "27,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 208,
+    "Name": "Centlivre",
+    "Lat": "19,0",
+    "Lon": "290,4",
+    "Diam": "27,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 206,
+    "Name": "Sirani",
+    "Lat": "-31,5",
+    "Lon": "230,4",
+    "Diam": "27,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 207,
+    "Name": "Andami",
+    "Lat": "-17,5",
+    "Lon": "26,5",
+    "Diam": "27,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 205,
+    "Name": "Glaspell",
+    "Lat": "-58,5",
+    "Lon": "269,6",
+    "Diam": "27,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 209,
+    "Name": "Efimova",
+    "Lat": "81,0",
+    "Lon": "223,4",
+    "Diam": "27,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 210,
+    "Name": "Trollope",
+    "Lat": "-54,8",
+    "Lon": "246,4",
+    "Diam": "27,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 212,
+    "Name": "Nilsson",
+    "Lat": "-76,0",
+    "Lon": "277,6",
+    "Diam": "27,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 213,
+    "Name": "Wu Hou",
+    "Lat": "-25,5",
+    "Lon": "317,4",
+    "Diam": "27,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 215,
+    "Name": "Huang Daopo",
+    "Lat": "-54,2",
+    "Lon": "165,3",
+    "Diam": "27,2",
+    "Morpho": 2
+  },
+  {
+    "Ref": 929,
+    "Name": "Hsueh T'ao",
+    "Lat": "-52,6",
+    "Lon": "13,8",
+    "Diam": "27,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 214,
+    "Name": "Scarpellini",
+    "Lat": "-23,3",
+    "Lon": "34,6",
+    "Diam": "27,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 216,
+    "Name": "Orczy",
+    "Lat": "3,7",
+    "Lon": "52,3",
+    "Diam": "27,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 217,
+    "Name": "Amenardes",
+    "Lat": "15,0",
+    "Lon": "54,3",
+    "Diam": "27,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 218,
+    "Name": "Richards",
+    "Lat": "2,5",
+    "Lon": "196,1",
+    "Diam": "26,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 219,
+    "Name": "Udaltsova",
+    "Lat": "-20,3",
+    "Lon": "275,3",
+    "Diam": "26,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 220,
+    "Name": "Cortese",
+    "Lat": "-11,4",
+    "Lon": "218,4",
+    "Diam": "26,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 221,
+    "Name": "Barrera",
+    "Lat": "16,5",
+    "Lon": "109,4",
+    "Diam": "26,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 222,
+    "Name": "Kingsley",
+    "Lat": "-22,6",
+    "Lon": "306,4",
+    "Diam": "26,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 224,
+    "Name": "Magnani",
+    "Lat": "58,6",
+    "Lon": "337,2",
+    "Diam": "26,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 223,
+    "Name": "Klafsky",
+    "Lat": "-20,7",
+    "Lon": "188,1",
+    "Diam": "26,6",
+    "Morpho": 4
+  },
+  {
+    "Ref": 225,
+    "Name": "Cather",
+    "Lat": "47,1",
+    "Lon": "107,0",
+    "Diam": "26,5",
+    "Morpho": 0
+  },
+  {
+    "Ref": 226,
+    "Name": "Hansberry",
+    "Lat": "-22,7",
+    "Lon": "324,1",
+    "Diam": "26,4",
+    "Morpho": 2
+  },
+  {
+    "Ref": 227,
+    "Name": "Holiday",
+    "Lat": "-46,7",
+    "Lon": "12,9",
+    "Diam": "26,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 228,
+    "Name": "Valadon",
+    "Lat": "-49,1",
+    "Lon": "167,7",
+    "Diam": "26,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 229,
+    "Name": "Guilbert",
+    "Lat": "-58,0",
+    "Lon": "13,6",
+    "Diam": "26,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 231,
+    "Name": "Taussig",
+    "Lat": "-9,2",
+    "Lon": "229,0",
+    "Diam": "26,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 230,
+    "Name": "Lazarus",
+    "Lat": "-52,9",
+    "Lon": "127,2",
+    "Diam": "26,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 234,
+    "Name": "Storni",
+    "Lat": "-9,8",
+    "Lon": "245,6",
+    "Diam": "26,0",
+    "Morpho": 2
+  },
+  {
+    "Ref": 236,
+    "Name": "Thomas",
+    "Lat": "-13,0",
+    "Lon": "272,5",
+    "Diam": "25,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 235,
+    "Name": "Eudocia",
+    "Lat": "-59,1",
+    "Lon": "202,0",
+    "Diam": "25,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 238,
+    "Name": "Behn",
+    "Lat": "-32,5",
+    "Lon": "142,0",
+    "Diam": "25,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 237,
+    "Name": "Samintag",
+    "Lat": "-39,0",
+    "Lon": "80,7",
+    "Diam": "25,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 239,
+    "Name": "Baranamtarra",
+    "Lat": "17,9",
+    "Lon": "267,8",
+    "Diam": "25,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 240,
+    "Name": "Recamier",
+    "Lat": "-12,6",
+    "Lon": "58,1",
+    "Diam": "25,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 241,
+    "Name": "Nin",
+    "Lat": "-4,0",
+    "Lon": "266,4",
+    "Diam": "25,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 243,
+    "Name": "Rand",
+    "Lat": "-63,8",
+    "Lon": "59,5",
+    "Diam": "25,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 246,
+    "Name": "Kauffman",
+    "Lat": "49,4",
+    "Lon": "27,1",
+    "Diam": "25,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 245,
+    "Name": "Bernhardt",
+    "Lat": "31,6",
+    "Lon": "84,4",
+    "Diam": "25,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 244,
+    "Name": "von Suttner",
+    "Lat": "-10,7",
+    "Lon": "235,0",
+    "Diam": "25,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 248,
+    "Name": "Lullin",
+    "Lat": "23,0",
+    "Lon": "81,3",
+    "Diam": "24,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 247,
+    "Name": "Fredegonde",
+    "Lat": "-50,5",
+    "Lon": "93,3",
+    "Diam": "24,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 249,
+    "Name": "Piscopia",
+    "Lat": "1,5",
+    "Lon": "190,9",
+    "Diam": "24,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 251,
+    "Name": "Lind",
+    "Lat": "50,2",
+    "Lon": "355,0",
+    "Diam": "24,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 250,
+    "Name": "Horner",
+    "Lat": "23,4",
+    "Lon": "97,8",
+    "Diam": "24,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 252,
+    "Name": "Woolf",
+    "Lat": "-37,7",
+    "Lon": "27,2",
+    "Diam": "24,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 253,
+    "Name": "Mukhina",
+    "Lat": "29,5",
+    "Lon": "0,5",
+    "Diam": "24,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 254,
+    "Name": "Christie",
+    "Lat": "28,3",
+    "Lon": "72,7",
+    "Diam": "24,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 257,
+    "Name": "Galindo",
+    "Lat": "-23,3",
+    "Lon": "258,9",
+    "Diam": "24,0",
+    "Morpho": 0
+  },
+  {
+    "Ref": 258,
+    "Name": "Johnson",
+    "Lat": "51,8",
+    "Lon": "254,6",
+    "Diam": "24,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 259,
+    "Name": "Masako",
+    "Lat": "-30,2",
+    "Lon": "53,2",
+    "Diam": "23,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 262,
+    "Name": "Wang Zhenyi",
+    "Lat": "13,2",
+    "Lon": "217,7",
+    "Diam": "23,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 261,
+    "Name": "Mirabeau",
+    "Lat": "1,1",
+    "Lon": "284,3",
+    "Diam": "23,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 264,
+    "Name": "Kartini",
+    "Lat": "57,8",
+    "Lon": "333,0",
+    "Diam": "23,6",
+    "Morpho": 0
+  },
+  {
+    "Ref": 263,
+    "Name": "Kelea",
+    "Lat": "8,9",
+    "Lon": "25,5",
+    "Diam": "23,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 265,
+    "Name": "Sartika",
+    "Lat": "-63,3",
+    "Lon": "67,0",
+    "Diam": "23,5",
+    "Morpho": 2
+  },
+  {
+    "Ref": 266,
+    "Name": "Bryce",
+    "Lat": "-62,5",
+    "Lon": "197,0",
+    "Diam": "23,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 267,
+    "Name": "Browning",
+    "Lat": "28,3",
+    "Lon": "4,9",
+    "Diam": "23,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 269,
+    "Name": "Hua Mulan",
+    "Lat": "86,8",
+    "Lon": "337,7",
+    "Diam": "23,4",
+    "Morpho": 0
+  },
+  {
+    "Ref": 268,
+    "Name": "Weil",
+    "Lat": "19,3",
+    "Lon": "283,1",
+    "Diam": "23,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 270,
+    "Name": "Kemble",
+    "Lat": "47,7",
+    "Lon": "14,9",
+    "Diam": "23,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 271,
+    "Name": "Martinez",
+    "Lat": "-11,7",
+    "Lon": "174,7",
+    "Diam": "23,1",
+    "Morpho": 2
+  },
+  {
+    "Ref": 273,
+    "Name": "Devorguilla",
+    "Lat": "15,3",
+    "Lon": "4,0",
+    "Diam": "23,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 274,
+    "Name": "Rossetti",
+    "Lat": "57,0",
+    "Lon": "6,4",
+    "Diam": "23,0",
+    "Morpho": 0
+  },
+  {
+    "Ref": 275,
+    "Name": "Quimby",
+    "Lat": "-5,7",
+    "Lon": "76,7",
+    "Diam": "22,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 276,
+    "Name": "Ferber",
+    "Lat": "26,4",
+    "Lon": "13,0",
+    "Diam": "22,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 278,
+    "Name": "Lehmann",
+    "Lat": "-44,1",
+    "Lon": "39,1",
+    "Diam": "22,8",
+    "Morpho": 2
+  },
+  {
+    "Ref": 279,
+    "Name": "de Stael",
+    "Lat": "37,4",
+    "Lon": "324,2",
+    "Diam": "22,8",
+    "Morpho": 2
+  },
+  {
+    "Ref": 281,
+    "Name": "Shih Mai-Yu",
+    "Lat": "18,4",
+    "Lon": "318,9",
+    "Diam": "22,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 280,
+    "Name": "Akeley",
+    "Lat": "8,0",
+    "Lon": "244,5",
+    "Diam": "22,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 282,
+    "Name": "Abington",
+    "Lat": "-47,8",
+    "Lon": "277,7",
+    "Diam": "22,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 283,
+    "Name": "Frank",
+    "Lat": "-13,1",
+    "Lon": "12,9",
+    "Diam": "22,6",
+    "Morpho": 2
+  },
+  {
+    "Ref": 284,
+    "Name": "Castro",
+    "Lat": "3,3",
+    "Lon": "233,9",
+    "Diam": "22,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 285,
+    "Name": "Brooke",
+    "Lat": "48,4",
+    "Lon": "296,6",
+    "Diam": "22,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 287,
+    "Name": "Annia Faustina",
+    "Lat": "22,1",
+    "Lon": "4,7",
+    "Diam": "22,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 288,
+    "Name": "Li Qingzhao",
+    "Lat": "23,7",
+    "Lon": "94,6",
+    "Diam": "22,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 289,
+    "Name": "Bly",
+    "Lat": "37,7",
+    "Lon": "305,6",
+    "Diam": "22,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 290,
+    "Name": "Zvereva",
+    "Lat": "45,3",
+    "Lon": "283,1",
+    "Diam": "22,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 292,
+    "Name": "Melba",
+    "Lat": "4,7",
+    "Lon": "193,4",
+    "Diam": "22,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 291,
+    "Name": "Lockwood",
+    "Lat": "-32,9",
+    "Lon": "51,6",
+    "Diam": "22,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 293,
+    "Name": "Adamson",
+    "Lat": "-14,8",
+    "Lon": "29,6",
+    "Diam": "22,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 294,
+    "Name": "Prichard",
+    "Lat": "44,0",
+    "Lon": "11,5",
+    "Diam": "22,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 296,
+    "Name": "Merian",
+    "Lat": "34,5",
+    "Lon": "76,2",
+    "Diam": "21,9",
+    "Morpho": 0
+  },
+  {
+    "Ref": 295,
+    "Name": "Buck",
+    "Lat": "-5,7",
+    "Lon": "349,6",
+    "Diam": "21,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 297,
+    "Name": "Caiwenji",
+    "Lat": "-12,4",
+    "Lon": "287,6",
+    "Diam": "21,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 298,
+    "Name": "de Lalande",
+    "Lat": "20,4",
+    "Lon": "355,0",
+    "Diam": "21,6",
+    "Morpho": 2
+  },
+  {
+    "Ref": 300,
+    "Name": "Nemcova",
+    "Lat": "5,9",
+    "Lon": "125,1",
+    "Diam": "21,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 304,
+    "Name": "Sidney",
+    "Lat": "13,4",
+    "Lon": "199,6",
+    "Diam": "21,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 305,
+    "Name": "Nalkowska",
+    "Lat": "28,1",
+    "Lon": "290,0",
+    "Diam": "21,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 303,
+    "Name": "Halle",
+    "Lat": "-19,8",
+    "Lon": "145,5",
+    "Diam": "21,1",
+    "Morpho": 2
+  },
+  {
+    "Ref": 306,
+    "Name": "Winema",
+    "Lat": "3,0",
+    "Lon": "168,6",
+    "Diam": "21,1",
+    "Morpho": 2
+  },
+  {
+    "Ref": 302,
+    "Name": "Durant",
+    "Lat": "-62,3",
+    "Lon": "227,6",
+    "Diam": "21,1",
+    "Morpho": 2
+  },
+  {
+    "Ref": 308,
+    "Name": "Al-Taymuriyya",
+    "Lat": "32,9",
+    "Lon": "336,2",
+    "Diam": "21,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 307,
+    "Name": "Blixen",
+    "Lat": "-60,2",
+    "Lon": "145,7",
+    "Diam": "21,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 309,
+    "Name": "Chapelle",
+    "Lat": "6,4",
+    "Lon": "103,8",
+    "Diam": "20,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 312,
+    "Name": "De Witt",
+    "Lat": "-6,5",
+    "Lon": "275,6",
+    "Diam": "20,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 311,
+    "Name": "d'Este",
+    "Lat": "-34,2",
+    "Lon": "238,7",
+    "Diam": "20,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 314,
+    "Name": "Fernandez",
+    "Lat": "76,2",
+    "Lon": "17,2",
+    "Diam": "20,6",
+    "Morpho": 0
+  },
+  {
+    "Ref": 313,
+    "Name": "Moore",
+    "Lat": "-30,3",
+    "Lon": "248,2",
+    "Diam": "20,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 317,
+    "Name": "Boivin",
+    "Lat": "4,2",
+    "Lon": "299,5",
+    "Diam": "20,5",
+    "Morpho": 2
+  },
+  {
+    "Ref": 318,
+    "Name": "Steinbach",
+    "Lat": "-41,5",
+    "Lon": "256,9",
+    "Diam": "20,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 321,
+    "Name": "Anaxandra",
+    "Lat": "44,2",
+    "Lon": "162,3",
+    "Diam": "20,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 324,
+    "Name": "Boyd",
+    "Lat": "-39,4",
+    "Lon": "221,4",
+    "Diam": "20,0",
+    "Morpho": 2
+  },
+  {
+    "Ref": 329,
+    "Name": "Konopnicka",
+    "Lat": "14,5",
+    "Lon": "166,6",
+    "Diam": "19,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 332,
+    "Name": "Avviyar",
+    "Lat": "-18,0",
+    "Lon": "353,7",
+    "Diam": "19,8",
+    "Morpho": 2
+  },
+  {
+    "Ref": 333,
+    "Name": "Kaikilani",
+    "Lat": "-32,8",
+    "Lon": "163,2",
+    "Diam": "19,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 338,
+    "Name": "Manton",
+    "Lat": "9,3",
+    "Lon": "26,9",
+    "Diam": "19,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 339,
+    "Name": "Escoda",
+    "Lat": "18,2",
+    "Lon": "149,5",
+    "Diam": "19,5",
+    "Morpho": 2
+  },
+  {
+    "Ref": 341,
+    "Name": "Wieck",
+    "Lat": "-74,2",
+    "Lon": "244,8",
+    "Diam": "19,4",
+    "Morpho": 3
+  },
+  {
+    "Ref": 345,
+    "Name": "Carter",
+    "Lat": "5,3",
+    "Lon": "67,3",
+    "Diam": "19,3",
+    "Morpho": 2
+  },
+  {
+    "Ref": 344,
+    "Name": "Zamudio",
+    "Lat": "9,6",
+    "Lon": "189,3",
+    "Diam": "19,3",
+    "Morpho": 0
+  },
+  {
+    "Ref": 346,
+    "Name": "Giliani",
+    "Lat": "-72,9",
+    "Lon": "142,1",
+    "Diam": "19,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 349,
+    "Name": "Gentileschi",
+    "Lat": "45,2",
+    "Lon": "260,6",
+    "Diam": "19,1",
+    "Morpho": 3
+  },
+  {
+    "Ref": 352,
+    "Name": "Gilmore",
+    "Lat": "-6,7",
+    "Lon": "132,7",
+    "Diam": "19,0",
+    "Morpho": 0
+  },
+  {
+    "Ref": 350,
+    "Name": "Comnena",
+    "Lat": "1,2",
+    "Lon": "343,7",
+    "Diam": "19,0",
+    "Morpho": 3
+  },
+  {
+    "Ref": 355,
+    "Name": "Riley",
+    "Lat": "14,0",
+    "Lon": "72,5",
+    "Diam": "18,8",
+    "Morpho": 3
+  },
+  {
+    "Ref": 356,
+    "Name": "Sandel",
+    "Lat": "-45,7",
+    "Lon": "211,6",
+    "Diam": "18,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 358,
+    "Name": "Yale",
+    "Lat": "-13,4",
+    "Lon": "271,2",
+    "Diam": "18,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 360,
+    "Name": "Budevska",
+    "Lat": "0,5",
+    "Lon": "143,2",
+    "Diam": "18,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 357,
+    "Name": "Cohn",
+    "Lat": "-33,3",
+    "Lon": "208,1",
+    "Diam": "18,7",
+    "Morpho": 3
+  },
+  {
+    "Ref": 365,
+    "Name": "Corinna",
+    "Lat": "22,9",
+    "Lon": "40,6",
+    "Diam": "18,5",
+    "Morpho": 3
+  },
+  {
+    "Ref": 366,
+    "Name": "Aethelflaed",
+    "Lat": "-18,2",
+    "Lon": "196,6",
+    "Diam": "18,4",
+    "Morpho": 2
+  },
+  {
+    "Ref": 367,
+    "Name": "MacDonald",
+    "Lat": "30,0",
+    "Lon": "120,7",
+    "Diam": "18,4",
+    "Morpho": 2
+  },
+  {
+    "Ref": 371,
+    "Name": "Ma Shouzhen",
+    "Lat": "-35,7",
+    "Lon": "92,5",
+    "Diam": "18,3",
+    "Morpho": 3
+  },
+  {
+    "Ref": 374,
+    "Name": "Montez",
+    "Lat": "17,9",
+    "Lon": "266,5",
+    "Diam": "18,2",
+    "Morpho": 3
+  },
+  {
+    "Ref": 378,
+    "Name": "Gregory",
+    "Lat": "7,1",
+    "Lon": "95,8",
+    "Diam": "18,0",
+    "Morpho": 2
+  },
+  {
+    "Ref": 928,
+    "Name": "de Ayala",
+    "Lat": "12,4",
+    "Lon": "31,9",
+    "Diam": "17,9",
+    "Morpho": 3
+  },
+  {
+    "Ref": 387,
+    "Name": "Workman",
+    "Lat": "-12,9",
+    "Lon": "299,9",
+    "Diam": "17,6",
+    "Morpho": 3
+  },
+  {
+    "Ref": 389,
+    "Name": "Oakley",
+    "Lat": "-29,3",
+    "Lon": "310,5",
+    "Diam": "17,5",
+    "Morpho": 2
+  },
+  {
+    "Ref": 392,
+    "Name": "Toklas",
+    "Lat": "0,7",
+    "Lon": "273,1",
+    "Diam": "17,2",
+    "Morpho": 2
+  },
+  {
+    "Ref": 398,
+    "Name": "Akiko",
+    "Lat": "30,6",
+    "Lon": "187,3",
+    "Diam": "17,1",
+    "Morpho": 2
+  },
+  {
+    "Ref": 402,
+    "Name": "Datsolalee",
+    "Lat": "38,3",
+    "Lon": "171,8",
+    "Diam": "17,0",
+    "Morpho": 2
+  },
+  {
+    "Ref": 410,
+    "Name": "Tussaud",
+    "Lat": "21,8",
+    "Lon": "220,8",
+    "Diam": "16,7",
+    "Morpho": 2
+  }
+]
