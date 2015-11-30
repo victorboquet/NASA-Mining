@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Kepler-186f",
+    "Potential population": 2997000000,
+    "Relative radius": 1.11,
+    "IST": 0.64
+  },
+  {
+    "Name": "Kepler-62f",
+    "Potential population": 3780000000,
+    "Relative radius": 1.4,
+    "IST": 0.67
+  },
+  {
+    "Name": "Kepler-442b",
+    "Potential population": 3618000000,
+    "Relative radius": 1.34,
+    "IST": 0.83
+  },
+  {
+    "Name": "Earth",
+    "Potential population": 2700000000,
+    "Relative radius": 1,
+    "IST": 1
+  }
+]

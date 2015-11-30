@@ -1,0 +1,227 @@
+@font-face{ 
+  font-family: 'Teko';
+  src: url('../data/Teko-Medium.eot');
+  src: url('../data/Teko-Medium.eot?#iefix') format('embedded-opentype'),
+       url('../data/Teko-Medium.woff') format('woff'),
+       url('../data/Teko-Medium.ttf') format('truetype'),
+       url('../data/Teko-Medium.svg#webfont') format('svg');
+}
+
+body {
+	margin: 0;
+	text-align: center;
+  color: #F3EBDC;
+  font-family: 'Teko', sans-serif;
+  text-transform: uppercase;
+}
+
+canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -999;
+	border: 20px solid #F3EBDC;
+}
+
+img {
+  position: absolute;
+  top: 70px;
+  left: 30px;
+}
+
+p {
+  font-family: sans-serif;
+  text-transform: none;
+  width: 12%;
+  margin-top: 180px;
+  margin-left: 40px;
+  text-align: left;
+  float: left;
+}
+
+ul {
+  list-style-type: none;
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding: 0;
+}
+
+ul li {
+  display: inline-block;
+  width: 54px;
+  margin: -2px;
+}
+
+input[type=range] {
+  -webkit-appearance: none;
+  margin-top: 10px;
+  width: 900px;
+  position: absolute;
+  margin-left: -450px;
+}
+input[type=range]:focus {
+  outline: none;
+}
+input[type=range]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 5px;
+  cursor: pointer;
+  animate: 0.2s;
+  box-shadow: 2px 2px 0px #AB221D;
+  background: #F3EBDC;
+  border-radius: 0px;
+  border: 0px solid #000000;
+}
+input[type=range]::-webkit-slider-thumb {
+  box-shadow: 0px 0px 0px #000000;
+  border: 0px solid #000000;
+  height: 20px;
+  width: 20px;
+  border-radius: 50px;
+  background: #AB221D;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -7.5px;
+}
+input[type=range]:focus::-webkit-slider-runnable-track {
+  background: #F3EBDC;
+}
+input[type=range]::-moz-range-track {
+  width: 100%;
+  height: 5px;
+  cursor: pointer;
+  animate: 0.2s;
+  box-shadow: 2px 2px 0px #AB221D;
+  background: #F3EBDC;
+  border-radius: 0px;
+  border: 0px solid #000000;
+}
+input[type=range]::-moz-range-thumb {
+  box-shadow: 0px 0px 0px #000000;
+  border: 0px solid #000000;
+  height: 20px;
+  width: 20px;
+  border-radius: 50px;
+  background: #AB221D;
+  cursor: pointer;
+}
+input[type=range]::-ms-track {
+  width: 100%;
+  height: 5px;
+  cursor: pointer;
+  animate: 0.2s;
+  background: transparent;
+  border-color: transparent;
+  color: transparent;
+}
+input[type=range]::-ms-fill-lower {
+  background: #F3EBDC;
+  border: 0px solid #000000;
+  border-radius: 0px;
+  box-shadow: 2px 2px 0px #AB221D;
+}
+input[type=range]::-ms-fill-upper {
+  background: #F3EBDC;
+  border: 0px solid #000000;
+  border-radius: 0px;
+  box-shadow: 2px 2px 0px #AB221D;
+}
+input[type=range]::-ms-thumb {
+  box-shadow: 0px 0px 0px #000000;
+  border: 0px solid #000000;
+  height: 20px;
+  width: 20px;
+  border-radius: 50px;
+  background: #AB221D;
+  cursor: pointer;
+}
+input[type=range]:focus::-ms-fill-lower {
+  background: #F3EBDC;
+}
+input[type=range]:focus::-ms-fill-upper {
+  background: #F3EBDC;
+}
+
+#year {
+  font-size: 36px;
+}
+
+table {
+  padding-top: 30px;
+  margin: 30px;
+  text-align: left;
+  margin-left: 40%;
+}
+
+table td {
+  padding: 0 10px;
+}
+
+table .button {
+  display:inline-block;
+  cursor:pointer;
+  padding:2px 5px;
+  margin: 2px 0;
+  color: #F3EBDC;
+  font-family: 'Teko', sans-serif;
+  text-transform: uppercase;
+  border: none;
+  outline: none;
+}
+
+table .button:active {
+  position:relative;
+  transform: translateY(1px);
+}
+
+table .k186f {
+  background-color:#BC68A8;
+  box-shadow: 3px 4px 0px 0px #731E60;
+}
+
+table .k186f:hover {
+  background-color:#E6A2D6;
+}
+
+table .k62f {
+  background-color:#40A497;
+  box-shadow: 3px 4px 0px 0px #207371;
+}
+
+table .k62f:hover {
+  background-color:#A2CFE6;
+}
+
+table .k442b {
+  background-color:#D49311;
+  box-shadow: 3px 4px 0px 0px #9A7613;
+}
+
+table .k442b:hover {
+  background-color:#E3C05F;
+}
+
+#reload {
+  position: absolute;
+  bottom: 50px;
+  right: 50px;
+
+  display:inline-block;
+  cursor:pointer;
+  padding:5px 10px;
+  color: #F3EBDC;
+  background: #AB221D;
+  box-shadow: 3px 4px 0px 0px #781212;
+  font-family: 'Teko', sans-serif;
+  text-transform: uppercase;
+  font-size: 21px;
+  border: none;
+  outline: none;
+}
+
+#reload:hover {
+  background: #cc4f4a;
+}
