@@ -1,0 +1,192 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>exoplanet population</title>
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+
+	<!-- <link href='https://fonts.googleapis.com/css?family=Teko:400,700,600' rel='stylesheet' type='text/css'> -->
+</head>
+<body>
+	<ul>
+		<li>2015</li>
+		<li>2020</li>
+		<li>2025</li>
+		<li>2030</li>
+		<li>2035</li>
+		<li>2040</li>
+		<li>2045</li>
+		<li>2050</li>
+		<li>2055</li>
+		<li>2060</li>
+		<li>2065</li>
+		<li>2070</li>
+		<li>2075</li>
+		<li>2080</li>
+		<li>2085</li>
+		<li>2090</li>
+		<li>2095</li>
+		<li>2100</li>
+	</ul>
+	<input id="yearRange" type="range" min="2015" max="2100" step="5" value="2015"/>
+
+	<!-- <h2 id="year">2015 7263599049</h2> -->
+	<img src="data/logo.png" alt="logo" />
+	<p>
+		Bad news: we are too many on the Earth. But don’t worry! You can save our planet! Choose a country and send its population to Kepler-186f, Kepler-62f or Kepler-442b, the best exoplanets for the Life! It will ease the Earth and the chosen populations will discover wonderful landscapes!
+	</p>
+
+	<button id="reload" onclick="reload()">Return on Earth</button>
+
+	<table id="countriespop">
+		<tr>
+			<td></td>
+			<td>Country</td>
+			<td>population</td>
+			<td>Send to</td>
+			<tr>
+				<td>1.</td>
+				<td>China</td>
+				<td>1376954354 inhabitants</td>
+				<td>
+					<input class="button k186f" type="button" value="Kepler-186f" id="k186f0">
+				</td>
+				<td>
+					<input class="button k62f" type="button" value="Kepler-62f" id="k62f0">
+				</td>
+				<td>
+					<input class="button k442b" type="button" value="Kepler-442b" id="k442b0">
+				</td>
+			</tr>
+			<tr>
+				<td>2.</td>
+				<td>India</td>
+				<td>1217921356 inhabitants</td>
+				<td>
+					<input class="button k186f" type="button" value="Kepler-186f" id="k186f1">
+				</td>
+				<td>
+					<input class="button k62f" type="button" value="Kepler-62f" id="k62f1">
+				</td>
+				<td>
+					<input class="button k442b" type="button" value="Kepler-442b" id="k442b1">
+				</td>
+			</tr>
+			<tr>
+				<td>3.</td>
+				<td>United States of America</td>
+				<td>311778842 inhabitants</td>
+				<td>
+					<input class="button k186f" type="button" value="Kepler-186f" id="k186f3">
+				</td>
+				<td>
+					<input class="button k62f" type="button" value="Kepler-62f" id="k62f3">
+				</td>
+				<td>
+					<input class="button k442b" type="button" value="Kepler-442b" id="k442b2">
+				</td>
+			</tr>
+			<tr>
+				<td>4.</td>
+				<td>Indonesia</td>
+				<td>249864949 inhabitants</td>
+				<td>
+					<input class="button k186f" type="button" value="Kepler-186f" id="k186f3">
+				</td>
+				<td>
+					<input class="button k62f" type="button" value="Kepler-62f" id="k62f3">
+				</td>
+				<td>
+					<input class="button k442b" type="button" value="Kepler-442b" id="k442b3">
+				</td>
+			</tr>
+			<tr>
+				<td>5.</td>
+				<td>Pakistan</td>
+				<td>201962981 inhabitants</td>
+				<td>
+					<input class="button k186f" type="button" value="Kepler-186f" id="k186f4">
+				</td>
+				<td>
+					<input class="button k62f" type="button" value="Kepler-62f" id="k62f4">
+				</td>
+				<td>
+					<input class="button k442b" type="button" value="Kepler-442b" id="k442b4">
+				</td>
+			</tr>
+			<tr>
+				<td>6.</td>
+				<td>Brazil</td>
+				<td>201583598 inhabitants</td>
+				<td>
+					<input class="button k186f" type="button" value="Kepler-186f" id="k186f5">
+				</td>
+				<td>
+					<input class="button k62f" type="button" value="Kepler-62f" id="k62f5">
+				</td>
+				<td>
+					<input class="button k442b" type="button" value="Kepler-442b" id="k442b5">
+				</td>
+			</tr>
+			<tr>
+				<td>7.</td>
+				<td>Bangladesh</td>
+				<td>180643261 inhabitants</td>
+				<td>
+					<input class="button k186f" type="button" value="Kepler-186f" id="k186f6">
+				</td>
+				<td>
+					<input class="button k62f" type="button" value="Kepler-62f" id="k62f6">
+				</td>
+				<td>
+					<input class="button k442b" type="button" value="Kepler-442b" id="k442b6">
+				</td>
+			</tr>
+			<tr>
+				<td>8.</td>
+				<td>Nigeria</td>
+				<td>173772350 inhabitants</td>
+				<td>
+					<input class="button k186f" type="button" value="Kepler-186f" id="k186f7">
+				</td>
+				<td>
+					<input class="button k62f" type="button" value="Kepler-62f" id="k62f7">
+				</td>
+				<td>
+					<input class="button k442b" type="button" value="Kepler-442b" id="k442b7">
+				</td>
+			</tr>
+			<tr>
+				<td>9.</td>
+				<td>Russian Federation</td>
+				<td>145063971 inhabitants</td>
+				<td>
+					<input class="button k186f" type="button" value="Kepler-186f" id="k186f8">
+				</td>
+				<td>
+					<input class="button k62f" type="button" value="Kepler-62f" id="k62f8">
+				</td>
+				<td>
+					<input class="button k442b" type="button" value="Kepler-442b" id="k442b8">
+				</td>
+			</tr>
+			<tr>
+				<td>10.</td>
+				<td>Japan</td>
+				<td>130879100 inhabitants</td>
+				<td>
+					<input class="button k186f" type="button" value="Kepler-186f" id="k186f9">
+				</td>
+				<td>
+					<input class="button k62f" type="button" value="Kepler-62f" id="k62f9">
+				</td>
+				<td>
+					<input class="button k442b" type="button" value="Kepler-442b" id="k442b9">
+				</td>
+			</tr>
+		</table>
+
+	<script type="text/javascript" src="js/main.js"></script>
+	<script type="text/javascript" src="js/p5.js"></script>
+</body>
+</html>
