@@ -1,0 +1,4 @@
+SPACE-SYNTH est une application mêlant sound design et design interactif. Inspiré des expérimentations sonores de la NASA (Kepler: Star KIC7671081B Light Curve Waves to Sound) qui consistait à transformer des ondes lumineuses en son. 
+L’application SPCE-SYNTH génère des fréquences sonores à partir de l’API BeXRB de la NASA. BeXRB est une machine captant des rayons et des flux à différents endroits de l’espace. L’utilisateur est ensuite amener à modifier le signal produit par l’API en utilisant différents Input, et ainsi expérimenté.
+L’application à un but immersif est expérimental. L’aspect graphique de l’application évoque l’espace et fait une corrélation entre le son et le visuel. La gammes sonores produites par l’API sont étranges, mystérieuse.
+L’ambiance sonore peut faire penser à la recherche, à l’inconnu.
