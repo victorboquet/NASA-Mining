@@ -1,0 +1,76 @@
+@font-face {
+    font-family: Relative-Faux;
+    src: url(../fonts/Relative-Faux.woff);
+}
+@font-face {
+    font-family: FSRufus-Bold;
+    src: url(../fonts/FSRufus-Bold.otf);
+}
+
+
+
+body{
+	margin: 0;
+	padding:0;
+	overflow: hidden;
+}
+img{
+	position: absolute;
+	top: 300px;
+	left:1600px;
+	z-index: 5;
+	cursor: pointer;
+}
+
+#info{
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	position: absolute;
+	top: 400px;
+	left:1600px;
+	background-color: yellow;
+	z-index: 0;
+
+}
+
+#zone{
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	position: absolute;
+	top: 150px;
+	left:1000px;
+
+}
+
+h1{
+	position:absolute;
+	top:0;
+	left: 0;
+}
+
+#InfoAsteroid{
+	border: 1px solid black;
+	width: 30%;
+	height:100%;
+	position:absolute;
+	right:10%;
+}
+
+#InfoAsteroid h2{
+	position:relative;
+	top:10%;
+	left:10%;
+	font-family: Relative-Faux;
+	font-size: 30px;
+	display:none;
+}
+
+#textedonnee{
+	position:absolute;
+	font-family: FSRufus-Bold;
+	font-size: 40px;
+	right = 50%;
+	z-index: 0;
+}
