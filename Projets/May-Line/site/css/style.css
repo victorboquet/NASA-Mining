@@ -1,0 +1,163 @@
+/*-----------------
+	style perso 
+-------------------*/
+
+
+body {
+	color: blue;
+	background-color: white;
+	/*background-image: url("../data/fond-point.png"); 
+	background-position: center center;
+	background-size: 100%;*/
+	font-family: OCR A;
+	margin: 0;
+	min-height: 100%;
+}
+
+#map{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index:-99;
+
+}
+
+/*#info p {
+	text-align: center;
+	font-size: 24px;
+	text-transform: uppercase;
+	position: relative;
+	padding-top: 10px;
+}
+
+#info {
+	background-color: white;
+	width: 250px;
+	height:250px;
+	float: right;
+	margin-right: 20px;
+	margin-top: 20px;
+	box-shadow: 0 3px 14px rgba(0,0,0,0.4);
+	border : 1px solid black;
+	pointer-events: none;
+	z-index: 0;
+}*/
+
+#taches {
+	display: block;
+	float: right;
+	margin-right: 50px;
+	margin-top: 20px;
+}
+
+
+#taches h1 {
+	text-transform: uppercase;
+	font-size: 22px;
+	background-color: white;
+	color: #4D4DFF;
+}
+
+span {
+	color : #4D4DFF;
+}
+
+#mass {
+	width:200px;
+}
+
+h2 {
+	font-size: 14px;
+	font-weight: lighter;
+	background-color: white;
+}
+
+#no {
+	margin-left: 100px;
+}
+
+#slider {
+	background-color: white;
+}
+
+button {
+	margin-left:0px;
+	border-radius:0px;
+	margin-top: 90px;
+	display: block;
+	float: left;
+}
+
+p {
+	font-size: 11px;
+	font-weight: lighter;
+	background-color: white;
+	margin-right: 50px;
+	position: absolute;
+}
+
+
+
+/*---------------------------
+	récupération 
+	et modification 
+	du code bootstraps
+-----------------------------*/
+
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #4D4DFF;
+    border-color: white;
+    border:3px;
+}
+
+.btn-primary:hover {
+    color: blue;
+    background-color: #fff;
+    border-color: blue;
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 0px;
+}
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+button, html input[type=button], input[type=reset], input[type=submit] {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+button, select {
+    text-transform: none;
+}
+button {
+    overflow: visible;
+}
+button, input, optgroup, select, textarea {
+    /*margin: 0;*/
+    font: inherit;
+    color: inherit;
+}
